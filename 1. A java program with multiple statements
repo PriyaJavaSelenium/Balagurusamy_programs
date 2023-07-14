@@ -1,0 +1,14 @@
+package java_Balagurusamy;
+/*
+* More Java Statements
+* This code computes square root
+*/
+import java.lang.Math;
+public class SquareRoot {
+    public static void main(String[] args) {
+        double x = 5; // Declaration and initialization
+        double y; // Simple declaration
+        y = Math.sqrt(x);
+        System.out.println("y " + y);
+    }
+}
